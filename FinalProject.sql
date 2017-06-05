@@ -1,4 +1,6 @@
 
+--Create library database--
+CREATE DATABASE db_library
 /*USE DATABASE db_library*/
 USE db_library
 
